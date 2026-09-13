@@ -1,0 +1,9 @@
+Rahul is an inactive user
+Sara has 0 friends
+Sara doesn't like any page
+Rohan has duplicate friends
+Neha has invalid page: 999
+Karan is a self friend
+Anjali is an inactive user
+Vikas has invalid friend: 20
+Pooja has duplicate liked pages

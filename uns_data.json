@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Amit",
+      "active": true,
+      "friends": [2, 3, 5],
+      "liked_pages": [101, 103]
+    },
+    {
+      "id": 2,
+      "name": "Priya",
+      "active": true,
+      "friends": [1, 4, 6],
+      "liked_pages": [102, 105]
+    },
+    {
+      "id": 3,
+      "name": "Rahul",
+      "active": false,
+      "friends": [1, 5],
+      "liked_pages": [101, 106]
+    },
+    {
+      "id": 4,
+      "name": "Sara",
+      "active": true,
+      "friends": [],
+      "liked_pages": []
+    },
+    {
+      "id": 5,
+      "name": "Rohan",
+      "active": true,
+      "friends": [1, 3, 7, 7, 9],
+      "liked_pages": [103, 106, 109]
+    },
+    {
+      "id": 6,
+      "name": "Neha",
+      "active": true,
+      "friends": [2, 4, 8, 10],
+      "liked_pages": [102, 105, 999]
+    },
+    {
+      "id": 7,
+      "name": "Karan",
+      "active": true,
+      "friends": [3, 5, 7],
+      "liked_pages": [101, 108, 109]
+    },
+    {
+      "id": 8,
+      "name": "Anjali",
+      "active": false,
+      "friends": [4, 6],
+      "liked_pages": [104, 107]
+    },
+    {
+      "id": 9,
+      "name": "Vikas",
+      "active": true,
+      "friends": [5, 7, 10, 20],
+      "liked_pages": [103, 106, 108]
+    },
+    {
+      "id": 10,
+      "name": "Pooja",
+      "active": true,
+      "friends": [6, 8, 9],
+      "liked_pages": [102, 105, 107, 107]
+    }
+  ],
+  "pages": [
+    {
+      "id": 101,
+      "name": "Python Developers"
+    },
+    {
+      "id": 102,
+      "name": "Data Science Enthusiasts"
+    },
+    {
+      "id": 103,
+      "name": "AI & ML Community"
+    },
+    {
+      "id": 104,
+      "name": "Web Dev Hub"
+    },
+    {
+      "id": 105,
+      "name": "Database Masters"
+    },
+    {
+      "id": 106,
+      "name": "Competitive Programming"
+    },
+    {
+      "id": 107,
+      "name": "UI/UX Designers"
+    },
+    {
+      "id": 108,
+      "name": "Cybersecurity World"
+    },
+    {
+      "id": 109,
+      "name": "Cloud Computing Community"
+    },
+    {
+      "id": 110,
+      "name": "Tech Career Hub"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+
+--- Users Information ---
+
+ID: 1. Amit is friend(s) with: [2, 3, 5] and likes pages: [101, 103]
+ID: 2. Priya is friend(s) with: [1, 4, 6] and likes pages: [105, 102]
+ID: 3. Rahul is friend(s) with: [1, 5, 7] and likes pages: [106, 108, 101]
+ID: 4. Sara is friend(s) with: [8, 2, 6] and likes pages: [104, 107]
+ID: 5. Rohan is friend(s) with: [1, 3, 9, 7] and likes pages: [106, 109, 103]
+ID: 6. Neha is friend(s) with: [8, 2, 10, 4] and likes pages: [105, 110, 102]
+ID: 7. Karan is friend(s) with: [9, 3, 5] and likes pages: [109, 108, 101]
+ID: 8. Anjali is friend(s) with: [10, 4, 6] and likes pages: [104, 107, 110]
+ID: 9. Vikas is friend(s) with: [10, 5, 7] and likes pages: [106, 108, 103]
+ID: 10. Pooja is friend(s) with: [8, 9, 6] and likes pages: [105, 107, 102]
+
+
+--- Pages Information ---
+
+ID: 101. Python Developers
+ID: 102. Data Science Enthusiasts
+ID: 103. AI & ML Community
+ID: 104. Web Dev Hub
+ID: 105. Database Masters
+ID: 106. Competitive Programming
+ID: 107. UI/UX Designers
+ID: 108. Cybersecurity World
+ID: 109. Cloud Computing Community
+ID: 110. Tech Career Hub

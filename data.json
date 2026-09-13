@@ -1,0 +1,106 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Amit",
+      "friends": [2, 3, 5],
+      "liked_pages": [101, 103]
+    },
+    {
+      "id": 2,
+      "name": "Priya",
+      "friends": [1, 4, 6],
+      "liked_pages": [102, 105]
+    },
+    {
+      "id": 3,
+      "name": "Rahul",
+      "friends": [1, 5, 7],
+      "liked_pages": [101, 106, 108]
+    },
+    {
+      "id": 4,
+      "name": "Sara",
+      "friends": [2, 6, 8],
+      "liked_pages": [104, 107]
+    },
+    {
+      "id": 5,
+      "name": "Rohan",
+      "friends": [1, 3, 7, 9],
+      "liked_pages": [103, 106, 109]
+    },
+    {
+      "id": 6,
+      "name": "Neha",
+      "friends": [2, 4, 8, 10],
+      "liked_pages": [102, 105, 110]
+    },
+    {
+      "id": 7,
+      "name": "Karan",
+      "friends": [3, 5, 9],
+      "liked_pages": [101, 108, 109]
+    },
+    {
+      "id": 8,
+      "name": "Anjali",
+      "friends": [4, 6, 10],
+      "liked_pages": [104, 107, 110]
+    },
+    {
+      "id": 9,
+      "name": "Vikas",
+      "friends": [5, 7, 10],
+      "liked_pages": [103, 106, 108]
+    },
+    {
+      "id": 10,
+      "name": "Pooja",
+      "friends": [6, 8, 9],
+      "liked_pages": [102, 105, 107]
+    }
+  ],
+  "pages": [
+    {
+      "id": 101,
+      "name": "Python Developers"
+    },
+    {
+      "id": 102,
+      "name": "Data Science Enthusiasts"
+    },
+    {
+      "id": 103,
+      "name": "AI & ML Community"
+    },
+    {
+      "id": 104,
+      "name": "Web Dev Hub"
+    },
+    {
+      "id": 105,
+      "name": "Database Masters"
+    },
+    {
+      "id": 106,
+      "name": "Competitive Programming"
+    },
+    {
+      "id": 107,
+      "name": "UI/UX Designers"
+    },
+    {
+      "id": 108,
+      "name": "Cybersecurity World"
+    },
+    {
+      "id": 109,
+      "name": "Cloud Computing Community"
+    },
+    {
+      "id": 110,
+      "name": "Tech Career Hub"
+    }
+  ]
+}
