@@ -4,7 +4,7 @@ A Pure Python project that processes, transforms, validates, and works with soci
 
 The project was built to strengthen Python fundamentals and understand how raw structured data can be converted into useful and readable information.
 
-## 🚀 Features
+##  Features
 
 * Load and process JSON data
 * Display users and their connections
@@ -14,7 +14,7 @@ The project was built to strengthen Python fundamentals and understand how raw s
 * **Pages You May Like** recommendation
 * Detect and report problems in messy data
 
-## 🧹 Data Validation & Cleaning
+##  Data Validation & Cleaning
 
 The project checks for common data issues such as:
 
@@ -29,7 +29,7 @@ The project checks for common data issues such as:
 
 The detected issues are written to a separate text file as a readable report.
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 * Python Lists
 * Dictionaries
@@ -46,7 +46,7 @@ The detected issues are written to a separate text file as a readable report.
 * Data Transformation
 * Basic Recommendation Logic
 
-## 🛠️ Built With
+##  Built With
 
 **Language:** Python
 
@@ -54,7 +54,7 @@ The detected issues are written to a separate text file as a readable report.
 
 **External Libraries:** None
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Network-Data-Processing-Recommendation/
@@ -67,7 +67,7 @@ Network-Data-Processing-Recommendation/
 └── README.md
 ```
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ```text
 JSON Data
@@ -85,13 +85,13 @@ Validate Messy Data
 Generate Error Report
 ```
 
-## 🎯 Purpose
+##  Purpose
 
 The main goal of this project was to strengthen Python and data-processing fundamentals before moving towards more advanced Data Science and Machine Learning concepts.
 
 I intentionally built the project using Pure Python and built-in functionality instead of external libraries, allowing me to focus on understanding the logic behind data processing.
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Improve recommendation logic using mutual connections
 * Add recommendation scoring
